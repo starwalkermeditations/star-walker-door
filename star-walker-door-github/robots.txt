@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://starwalkermeditations.com/sitemap.xml
